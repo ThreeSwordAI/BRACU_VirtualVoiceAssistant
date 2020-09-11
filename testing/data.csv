@@ -1,0 +1,51 @@
+ID,Initial,Small_Name,Name,Designation,Room,EMAIL
+1,AAR,Annajiat,Mr. Annajiat Alim Rasel,Lecturer III,UB80710,annajiat@bracu.ac.bd
+2,ABD,Abdullah,Mr. Abdullah,Lecturer,UB80719,abdullah@bracu.ac.bd
+3,ACH,Amitabha,Dr. Amitabha Chakrabarty,Associate Professor,UB80806,amitabha@bracu.ac.bd
+4,AHR,Rodoshi,Ms. Ahanaf Hassan Rodoshi,Lecturer,UB80713,ahanaf.hassan@bracu.ac.bd
+5,AKO,Akhon,Mr. Mujtahid Al-Islam Akon,Lecturer,UB80819,mujtahid.akon@bracu.ac.bd
+6,AMH,aminul,Mr. Aminul Huq,Lecturer,UB80911,aminul.huq@bracu.ac.bd
+7,ARF,Arif,Mr. Arif Shakil,Lecturer,UB80905,arif.shakil@bracu.ac.bd
+8,ARK,Arnisha,Ms. Arnisha Khondaker,Lecturer,UB80606,arnisha.khondaker@bracu.ac.bd
+9,ASA,Ashraful,Dr. Md. Ashraful Alam,Assistant Professor,UB80714,ashraful.alam@bracu.ac.bd
+10,ASF,Faruk,Mr. Ahmed Sayeed Faruk,Lecturer,UB80905,sayeed.faruk@bracu.ac.bd
+11,DSH,Dilruba,Ms. Dilruba Showkat,Lecturer III,UB80712,dilruba@bracu.ac.bd
+12,DZK,Dzk,Mr. Dewan Ziaul Karim,Lecturer,UB80717,ziaul.karim@bracu.ac.bd
+13,ESF,Esfar,Mr. A. M. Esfar-E-Alam,Lecturer III,UB80809,esfar.alam@bracu.ac.bd
+14,FBA,Faisal,Mr. Faisal Bin Ashraf,Lecturer,UB80803,faisal.ashraf@bracu.ac.bd
+15,FSH,Farhana,Ms. Farhana Shahid,Lecturer,UB80815,farhana.shahid@bracu.ac.bd
+16,ISH,Ismail,Mr. Ismail Hossain,Lecturer,UB80818,ismail.hossain@bracu.ac.bd
+17,JIU,Jia,Dr. Jia Uddin,Associate Professor,UB80706,jia.uddin@bracu.ac.bd
+18,JNM,Mukta,Ms. Jannatun Noor Mukta,Lecturer,UB80607,jannatun.noor@bracu.ac.bd
+19,KHR,Khalil,Dr. Md. Khalilur Rhaman,Associate Professor,UB80811,khalilur@bracu.ac.bd
+20,KMA,mamun,Mr. Khandaker Mamun Ahmed,Lecturer,UB80819,mamun.ahmed@bracu.ac.bd
+21,MGR,gra,Dr. Md. Golam Rabiul Alam,Associate Professor,UB80903,rabiul.alam@bracu.ac.bd
+22,MHT,mahrin,Ms. Mahrin Tasfe,Lecturer,UB80608,mahrin.tasfe@bracu.ac.bd
+23,MIB,mobin,Dr. Md Iftekharul Mobin,Assistant Professor,UB80807,iftekharul.mobin@bracu.ac.bd
+24,MIH,iqbal,Dr. Muhammad Iqbal Hossain,Assistant Professor,UB80912,iqbal.hossain@bracu.ac.bd
+25,MMI,motaharul,Dr. Md. Motaharul Islam,Associate Professor,UB80711,motaharul.islam@bracu.ac.bd
+26,MMM,moin,Mr. Moin Mostakim,Lecturer III,UB80810,mostakim@bracu.ac.bd
+27,MND,masnad,Mr. Mohshi Masnad,Lecturer,UB80812,mohshi.masnad@bracu.ac.bd
+28,MRA,akhond,Mr. Mostafijur Rahman Akhond,Lecturer II,UB80818,mostafij.akhond@bracu.ac.bd
+29,MRN,mahabur,Mr. Md. Mahabur Rahman,Lecturer,UB80805,mahabur.rahman@bracu.ac.bd
+30,MSI,saiful,Mr. Md. Saiful Islam,Lecturer,UB80805,md.saiful.islam@bracu.ac.bd
+31,MSN,kaonain,Mr. Md. Shamsul Kaonain,Lecturer III,UB80907,mkaonain@bracu.ac.bd
+32,MZP,parvez,Dr. Mohammad Zavid Parvez,Assistant Professor,UB80707,zavid.parvez@bracu.ac.bd
+33,NNC,najeefa,Ms. Najeefa Nikhat Choudhury,Lecturer II,UB80712,najeefa.chy@bracu.ac.bd
+34,NOR,aminul,Mr. Mohammad Shafenoor Amin,Lecturer III,UB80908,shafenoor.amin@bracu.ac.bd
+35,NSM,nursrat,Ms. Nusrat Suzana Momo,Lecturer,UB80713,suzana.momo@bracu.ac.bd
+36,RAA,rasif,Mr. Rasif Ajwad,Lecturer III,UB80708,rasif.ajwad@bracu.ac.bd
+37,RAK,rubayat,Mr. Rubayat Ahmed Khan,Lecturer II,UB80812,rubayat.ahmed@bracu.ac.bd
+38,RAR,rahmina,Ms. Rahmina Rubaiat,Lecturer,UB80814,rahmina.rubaiat@bracu.ac.bd
+39,RYB,rayhan,Mr. Md. Rayhan Kabir,Lecturer,UB80803,rayhan.kabir@bracu.ac.bd
+40,SBI,sajib,Mr. Sajib Biswas,Lecturer,UB80911,sbiswas.amit@bracu.ac.bd
+41,SEJ,saifat,Ms. Sifat E Jahan,Lecturer,UB80608,sifat.jahan@bracu.ac.bd
+42,SHC,sharmin,Ms. Sharmin Aktar,Lecturer,UB80607,sharmin.champa@bracu.ac.bd
+43,SLI,samiul,Mr. Samiul Islam,Lecturer III,UB80808,samiul.islam@bracu.ac.bd
+44,SRF,ramisa,Ms. Syeda Ramisa Fariha,Lecturer,UB80813,ramisa.fariha@bracu.ac.bd
+45,SRJ,mehnaz,Ms. Mehnaz Seraj,Lecturer II,UB80609,seraj.mehnaz@bracu.ac.bd
+46,SSK,salman,Mr. Salman Sayeed Khan,Lecturer,UB80719,salman.sayeed@bracu.ac.bd
+47,SZN,shakila,Ms. Shakila Zaman,Lecturer,UB80814,shakila.zaman@bracu.ac.bd
+48,TRA,tanvir,Mr. Tanvir Rahman,Lecturer,UB80817,tanvir.rahman@bracu.ac.bd
+49,TRD,trisha,Ms. Trisha Das,Lecturer,UB80815,trisha.cse@bracu.ac.bd
+50,WAR,warida,Ms. Warida Rashid,Lecturer,UB80813,warida.rashid@bracu.ac.bd 
