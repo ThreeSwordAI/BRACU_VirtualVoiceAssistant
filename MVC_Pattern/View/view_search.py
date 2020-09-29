@@ -24,16 +24,6 @@ def get_audio():
 			print("Exception"+ str(e))
 	return said
 
-class View_Teacher(object):
-	def __init__(self, teacher):
-		print("Faculty name is "+teacher.name)
-		speak("Faculty name is "+teacher.name)
-
-		print("Faculty initial is "+teacher.initial)
-		speak("Faculty initial is "+teacher.initial)
-
-		print("Faculty room number is "+teacher.room)
-		speak("Faculty room number is "+teacher.room)
-
-		print("Faculty email is "+teacher.email)
-		speak("Faculty email is "+teacher.email)
+class View_Search(object):
+	def __init__(self, s):
+		speak("Here is the search result")

@@ -24,7 +24,17 @@ def get_audio():
 			print("Exception"+ str(e))
 	return said
 
-
 speak("Hello Rafs, How may I help you?")
 text = get_audio()
 m = controll.Controll(text)
+
+
+x=True
+while(x==True):
+	speak("Do you need anyting else?")
+	text = get_audio()
+	if "no" in text:
+			speak("Your welcome.")
+			break
+	else:
+		b = controll.Controll(text)

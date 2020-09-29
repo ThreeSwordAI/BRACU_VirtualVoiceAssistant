@@ -27,4 +27,5 @@ def get_audio():
 class View_Calendar(object):
 	def __init__(self, calendar):
 		print(calendar.event['summary'])
+		speak("Your next event is "+ calendar.event['summary'])
         
